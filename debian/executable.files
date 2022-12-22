@@ -1,0 +1,17 @@
+./configure
+./src/Makefile.am
+./config.guess
+./depcomp
+./install-sh
+./mkinstalldirs
+./intltool-merge
+./debian/rules
+./debian/rules.old
+./autogen.sh
+./intltool-extract
+./missing
+./Makefile.am
+./intltool-update
+./configure.ac
+./config.sub
+./compile
